@@ -13,9 +13,8 @@
    ```javascript
    npm i 
    
-   npm i -D element-plus @element-plus/icons-vue
+   npm i -D element-plus @element-plus/icons-vue imooc-element-components-dang
    
-   npm i imooc-element-components-dang -s
    ```
 
    在`package.json`中可以看到
